@@ -13,8 +13,6 @@ Laser Slides Flutter is a mobile application built using the Flutter framework, 
 - [Architecture](#architecture)
 - [OSC Commands](#osc-commands)
 - [Socket Connection](#socket-connection)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
