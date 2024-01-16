@@ -78,3 +78,25 @@ Laser Slides Flutter establishes a socket connection with Beyond software to sen
 - **Interactive Installations:** Design interactive installations that empower users to influence and control audiovisual elements. Whether in art exhibitions or interactive displays, Laser Slides Flutter offers a versatile solution for creating engaging and dynamic user experiences.
 
 - **DJ Performances:** Equip DJs with a portable and efficient tool to manipulate audio and visual effects during performances. The application becomes an essential companion for DJs, allowing them to create captivating and dynamic shows with ease.
+
+
+#Screens
+<p align = "left">
+
+<img src = https://github.com/Rohit-554/LaserSlidesFlutter/assets/48874687/fdeeabd7-59b2-48f9-99b2-d15a4d307877 width = "200" height = "430">
+<img src = https://github.com/Rohit-554/LaserSlidesFlutter/assets/48874687/b0f92d0b-46c7-46d3-b216-1708a4f284fe width = "200" height = "430">
+<img src = https://github.com/Rohit-554/LaserSlidesFlutter/assets/48874687/50c543ae-1538-4c10-91fc-8ef69cf501ee width = "200" height = "430">
+<img src = https://github.com/Rohit-554/LaserSlidesFlutter/assets/48874687/ea1c5f68-f7bf-4637-88d3-fde4564cf787 width = "200" height = "430">
+ </p>
+ <br>
+ <p align = "left">
+<img src = https://github.com/Rohit-554/LaserSlidesFlutter/assets/48874687/ccd90a9d-5458-4445-bffa-c353577ebc9d width = "200" height = "430">
+<img src = https://github.com/Rohit-554/LaserSlidesFlutter/assets/48874687/ff017c2a-5969-4ad1-b581-d16331ac006f width = "200" height = "430">
+<img src = https://github.com/Rohit-554/LaserSlidesFlutter/assets/48874687/e5665c1a-6a82-49d5-a176-be5727368650 width = "200" height = "430">
+<img src = https://github.com/Rohit-554/LaserSlidesFlutter/assets/48874687/be891fe4-d36b-4eb0-b59a-c128a59dd990 width = "200" height = "430">
+   
+  </p>
+
+
+
+  
